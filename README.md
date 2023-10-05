@@ -1,14 +1,14 @@
 
 Português:
 - 👋 Oi, meu nome é Gabriel o/ ;
-- 👀 Estou interessado em aprender Java e C/C++, também me interesso pelo desevolvimento de jogos;
-- 🌱 Estou aprendendo Java, Shell Script, como controlar um arduíno e GameMaker;
+- 👀 Tenho interesse em jogos desde criança, seria uma vergonha para mim morrer sem eu fazer o meu!;
+- 🌱 Já aprendi o básico de Java, nada muito exagerado, mas atualmente estou estudando sobre JS, estou interessado em React e React Native;
 - 💞️ Pretendo colaborar com o desenvolvimento de jogos e sistemas;
 - 📫 Pode me mandar um e-mail, mas provavelmente vou demorar uns dias para responder. Aqui está: gabrieljss64@gmail.com
 
 English
 - 👋 Hi, I’m Gabriel o/ ;
-- 👀 I am interested in learning Java and C++, I am also interested in the development of games;
-- 🌱 I'm learning Java, Shell Script, how to control a arduino GameMaker;
+- 👀 I've been interested in video games since I was a kid, so it would be a shame not to make one of my own;
+- 🌱 I'm learning JS, React, to be precise;
 - 💞️ I intend to collaborate with the development of games and systems;
 - 📫 You can e-mail me, but it'll probably take me a few days to respond. Here it is: gabrieljss64@gmail.com
